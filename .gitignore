@@ -1,0 +1,4 @@
+inc_core.db
+.env
+__pycache__/
+*.pyc
